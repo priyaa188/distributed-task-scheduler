@@ -1,0 +1,8 @@
+Completed Jobs: 8
+Failed Jobs: 2
+
+Worker Statistics:
+Worker-4 : 1
+Worker-3 : 2
+Worker-2 : 3
+Worker-1 : 2
